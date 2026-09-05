@@ -1,0 +1,53 @@
+interface，接口
+interaction，互动
+interactive，互动的
+standard，标准、基准
+grass，草
+forest，森林
+leaf，叶子
+ace，高手、一流的、卓越的
+joist，搁栅、横梁、托梁
+steel，钢、兵器、坚硬的、准备/下决心对付
+steel joist，钢托梁
+advance，进步、发展、先进的、高级的
+civilization，文明
+wood，木头、木材
+replace，替换、代替、取代
+replaced by，被取代、被代替
+be(was/were) replaced by，过去被替代
+gradually，逐渐的
+especially, 尤其是、特别是
+tourist，旅游、游客
+tourist addraction，旅游景点
+slime，粘液、黏黏糊糊的
+tough，困难的、艰难的、坚强的
+brush，刷子、刷
+care，关心
+carefully，小心翼翼
+rope，绳子
+ropes，绳索
+soap，肥皂
+soapy，滑腻的、谄媚的
+soppy，多愁善感的、煽情的
+soup，汤
+soupy，太稀了
+---
+transalte the following examples
+```text
+1. 随着人类文明不断发展，房屋的木头搁栅慢慢被刚搁栅取代
+× As human civilization advanced, the house's wood joist gradually be replaced by steel joist. 
+x As human civilization advanced, the house's wood joist gradually was replaced by steel joist.
+As human civilization advanced, the house's wood joist was gradually replaced by steel joist.
+
+2. 自然风景非常美，在我的国家很难看到像这样的地方，尤其是这些岩石和湖泊。
+Nature is so beautiful, it's difficutl to see places like this in my country, especially the rocks and lake.
+
+3. 为了保护这幅古老的画，我小心翼翼地用刷子清除上面的粘液。
+x I use a brush to carefully cleaning the slime on the painting,  To protect t picture.
+x To protect the painting is tough when I using a brush to carefully cleaning the slime on the painting.
+It's tough to protect the painting when I use a brush  to carefully clean the slime on the painting.
+```
+---
+takeaways
++ A be replaced by B, A 被 B 取代
++ A be gradually replaced by B，A 逐渐被 B 取代

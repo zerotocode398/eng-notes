@@ -1,0 +1,65 @@
+car，车、汽车
+pet，宠物
+carpet，毛毯
+aborad，在.....上、在飞机上、在轮船上、在火车上
+abolish，废除、禁止
+aftermath，合理、余波
+unfamiliar，不熟悉的
+familiar，熟悉的
+better and better，越来越好
+wild，狂野的、野生的
+west，西
+east，东
+north，北
+south，南
+realize，意识到
+pointer，指针
+mouse，鼠标、老鼠
+mouse pointer，鼠标指针
+strong，强壮、牢固
+strongr，更强壮、更牢固
+joist，搁栅
+paint，油漆、绘画
+painting，画(指绘画作品)
+---
+translate the following examples.
+```text
+1. 搁栅这个单词对我来说很陌生，我需要先认识它才能够造句
+2. 为了让房子更加安全，工人加固了屋顶的木梁。
+3. 这个房子的横梁不太牢固，为了安全工人们加快了修复速度
+4. 这个统治者为了让人们的生活变得越来越好，废除了传统规则
+5. 这团粘液太硬了，他发现刷子不够硬，于是换了一把新的
+```
+---
++ A before B, A 在 B 之前
+  ```text
+  I eat before I work.  # 我在工作之前吃吃饭
+  ```
++ A after B, A 在 B 之后
+  ```text
+  I eat after I work.   # 我工作完在吃饭
+  ```
++ for me, 某件事对我有什么影响/是否合适我(强调对我来说)
+  ```text
+  English is difficult for me.  # 对我来说，英语很困难
+  This task is easy to me.      # 对我来说，这个任务很轻松
+  ```
++ to me, 我对某件事有什么看法/有什么感觉(固定词汇 + to someone)
+  ```text
+  is important to me.          
+  is unfamiliar to me.
+  is interesting to me.
+  is familiar to me.
+  is strange to me.
+  ```
++ to + 动词原型, 为了......(同 in order to + 动词原型)
+  ```text
+  to make life better.            # 为了让生活更好
+  in order to learn English.      # 为了学习英语
+  to protect the painting.        # 为了保护一幅画
+  ```
++ when A, B, 当 A 发生后, B 再发生
+  ```text
+  I was surprised when I saw her.   # 我看到她时，我很惊讶
+  When I saw her, I was surprised.  # 我看到她时，我很惊讶
+  ```
