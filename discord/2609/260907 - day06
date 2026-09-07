@@ -12,6 +12,14 @@ rice porridge，米粥
 forever，永远
 truly，真正
 grateful，感激的、感谢的
+beige，米色、浅褐色、棕褐色
+coat，外套
+comfortable，舒适的
+furniture，家具
+dark，深色
+ordinary, 普通的
+general，一般、普通的
+warm，温暖(阳光或者)
 ---
 translate the following examples
 ```text
@@ -30,6 +38,21 @@ This rice porridge is os soupy, it's like water.
 4. 相比于浓稠的粥我更喜欢稀的
 I like soupy than thick rice porridge.
 I like soupy rice porridge more than thick rice porridge.
+
+5. 虽然这件米色的外套看起来很普通，但我更喜欢穿它，而不是那件黑色的，因为它更舒服。
+Even though this beige coat looks so ordinary, I prefer it to black coat, because it's more comfortable.
+
+6. 我更喜欢米色的家具，而不是深色的家具。
+I prefer beige furniture to dark furniture.
+
+7. 他是个真正喜欢米色的人。
+He likes beige through and through.
+
+8. 房屋的墙是米色的，所以整个房间看起来很温暖。
+The walls of the room are beige, so the whole room looks warm.
+
+9. 如果你不知道选什么颜色，米色通常是一个安全的选择。
+Usually beige is a safe choice if you don't know which color to choose.
 
 ```
 ---
@@ -52,3 +75,17 @@ takeaways
   I prefer eating at home to eating out.
   I prefer playing games to watching movies.
   ```
++ look + 形容词，看起来....
+  ```text
+  He looks so tired.
+  I look so tired.
+  ```
++ 疑问词 + 名词(?) + to + 动词，不知道该哪个
+  ```text
+  which color to choose.
+  which fodd to eat.
+  I don't know where to start.
+  when to leave.
+  how to do it.
+  ```
+  
