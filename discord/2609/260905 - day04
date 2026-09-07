@@ -31,13 +31,15 @@ soapy，滑腻的、谄媚的
 soppy，多愁善感的、煽情的
 soup，汤
 soupy，太稀了
+finish，完成
 ---
 transalte the following examples
 ```text
 1. 随着人类文明不断发展，房屋的木头搁栅慢慢被刚搁栅取代
 × As human civilization advanced, the house's wood joist gradually be replaced by steel joist. 
 x As human civilization advanced, the house's wood joist gradually was replaced by steel joist.
-As human civilization advanced, the house's wood joist was gradually replaced by steel joist.
+x As human civilization advanced, the house's wood joist was gradually replaced by steel joist.
+√ As human civilization advanced, the wooden joist used in housing was gradually replaced with steel joists
 
 2. 自然风景非常美，在我的国家很难看到像这样的地方，尤其是这些岩石和湖泊。
 Nature is so beautiful, it's difficutl to see places like this in my country, especially the rocks and lake.
