@@ -32,6 +32,8 @@ soppy，多愁善感的、煽情的
 soup，汤
 soupy，太稀了
 finish，完成
+wood，木头
+wooden，木头做的、木头制造(形容东西)
 ---
 transalte the following examples
 ```text
@@ -39,7 +41,7 @@ transalte the following examples
 × As human civilization advanced, the house's wood joist gradually be replaced by steel joist. 
 x As human civilization advanced, the house's wood joist gradually was replaced by steel joist.
 x As human civilization advanced, the house's wood joist was gradually replaced by steel joist.
-√ As human civilization advanced, the wooden joist used in housing was gradually replaced with steel joists
+√ As human civilization advanced, the wooden joist used in housing was gradually replaced with steel joists.
 
 2. 自然风景非常美，在我的国家很难看到像这样的地方，尤其是这些岩石和湖泊。
 Nature is so beautiful, it's difficutl to see places like this in my country, especially the rocks and lake.
