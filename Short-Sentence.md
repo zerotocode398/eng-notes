@@ -86,4 +86,23 @@ sunlight shines into my room
 
 在中午
 at noon
+
+you can stay there and listen to them talk about it.
+你可以待在那里听听他们在讨论什么
+
+you can ask someone around you.
+你可以问问你周边的人
+
+you can ask someone around with you.
+你可以问问和你一起的人
+
+```
+
+### 26/09/09
+```text
+Good morning. Have a wonderful Wednesday.
+I can eat anything.
+I can eat something.
+I can eat almost nothing.
+I can eat nothing.
 ```
